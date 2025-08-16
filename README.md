@@ -49,7 +49,7 @@ Testing: 1,691 (20%)
 
 Classifier Used: Random Forest Classifier
 
-Performance:
+##Performance:
 
 ASL Recognition Accuracy → 99.53%
 
@@ -61,15 +61,15 @@ Programming Language: Python
 
 Libraries & Frameworks:
 
-OpenCV – Real-time computer vision
+-OpenCV – Real-time computer vision
 
-MediaPipe – Hand tracking & keypoint detection
+-MediaPipe – Hand tracking & keypoint detection
 
-Scikit-learn – Random Forest Classifier
+-Scikit-learn – Random Forest Classifier
 
-NumPy, Pandas – Data preprocessing
+-NumPy, Pandas – Data preprocessing
 
-Matplotlib – Visualization
+-Matplotlib – Visualization
 
 
 ## 🎯 Future Scope
