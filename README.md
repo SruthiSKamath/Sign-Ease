@@ -59,7 +59,7 @@ ISL Recognition Accuracy → 99.97%
 
 Programming Language: Python
 
-Libraries & Frameworks:
+##Libraries & Frameworks:
 
 -OpenCV – Real-time computer vision
 
