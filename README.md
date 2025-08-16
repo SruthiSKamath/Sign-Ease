@@ -7,6 +7,49 @@
 </p>
 
 ---
+# 📊 Project Visualizations  
+
+This section presents the dataset samples, confusion matrices, and performance metrics for both American Sign Language (ASL) and Indian Sign Language (ISL). These visuals highlight the model’s classification accuracy, dataset diversity, and precision scores.
+
+---
+
+## 🖐️ American Sign Language (ASL)
+
+### 🔹 Text to Gesture Image  
+<img src="ASL.png" alt="ASL Sample" width="500"/>  
+
+### 🔹 Confusion Matrix  
+<img src="CM ASL.jpg" alt="ASL Confusion Matrix" width="500"/>  
+
+### 🔹 Precision Score  
+<img src="precision asl.jpg" alt="Precision Score ASL" width="500"/>  
+
+---
+
+## 🖐️ Indian Sign Language (ISL)
+### 🔹 **Text to Gesture**  
+<img src="Picture11.png" alt="Dataset Image 2" width="400"/>  
+
+### 🔹 Sample Image  
+<img src="ISL1.png" alt="ISL Sample" width="500"/>  
+
+### 🔹 Confusion Matrix  
+<img src="Confusion mtrix ISL.jpg" alt="ISL Confusion Matrix" width="500"/>  
+
+### 🔹 Precision Score  
+<img src="Precision ISL.jpg" alt="Precision Score ISL" width="500"/>  
+
+---
+
+## 📷 Dataset Samples  
+
+The following images represent raw dataset inputs used for training and evaluation. These samples showcase the diversity of gestures captured across different conditions.  
+
+- **Sample 1**  
+<img src="Picture1.png" alt="Dataset Image 1" width="400"/>  
+
+- **Sample 2**  
+<img src="Picture2.png" alt="Dataset Image 3" width="400"/>  
 
 ## 📌 Overview  
 
@@ -36,31 +79,8 @@ Communication is one of the most fundamental human needs. For the **hearing- and
 ## 📊 Project Visuals  
 
 ### 🖼️ American Sign Language (ASL) Recognition  
-- **ASL.png** – Sample dataset image showing ASL hand gestures  
-- **CM ASL.jpg** – Confusion matrix for ASL recognition model performance  
-- **precision asl.jpg** – Precision graph showcasing accuracy metrics  
-
-<p align="center">
-  <img src="assets/ASL.png" alt="ASL Sample" width="250"/>  
-  <img src="assets/CM ASL.jpg" alt="Confusion Matrix ASL" width="350"/>  
-  <img src="assets/precision asl.jpg" alt="ASL Precision" width="350"/>  
-</p>
-
----
 
 ### 🖼️ Indian Sign Language (ISL) Recognition  
-- **ISL1.png** – Sample dataset image showing ISL gestures  
-- **Confusion mtrix ISL.jpg** – Confusion matrix for ISL recognition  
-- **Precision ISL.jpg** – Precision graph for ISL classification accuracy  
-
-<p align="center">
-  <img src="assets/ISL1.png" alt="ISL Sample" width="250"/>  
-  <img src="assets/Confusion mtrix ISL.jpg" alt="Confusion Matrix ISL" width="350"/>  
-  <img src="assets/Precision ISL.jpg" alt="ISL Precision" width="350"/>  
-/p>
-
----
-
 
 ## 📊 Datasets & Model  
 
