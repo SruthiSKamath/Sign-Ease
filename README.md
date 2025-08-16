@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Breaking+Barriers+with+Sign+Language+AI;ASL+%2B+ISL+Gesture+Recognition;Real-time+Translation+%7C+Deep+Learning+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Breaking+Barriers+with+Sign+Language+AI;ASL+%2B+ISL+Gesture+Recognition;Deep+Learning+%7C+Computer+Vision" alt="Typing SVG" />
   </a>
 </p>
 
