@@ -10,6 +10,7 @@
 # 📊 Project Visualizations  
 
 This section presents the dataset samples, confusion matrices, and performance metrics for both American Sign Language (ASL) and Indian Sign Language (ISL). These visuals highlight the model’s classification accuracy, dataset diversity, and precision scores.
+REPORT: https://drive.google.com/file/d/1TrRa5OeKCGi6AndA3N15CCHmAA-SBh9Q/view?usp=sharing 
 
 ---
 
